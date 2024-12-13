@@ -4,7 +4,7 @@ Hi 👋 My name is Necati ARMAN
 Front end web Development .net Development
 ------------------------------------------
 
-* 🖥️  See my portfolio at [necatiarman.ml](http://necatiarman.ml)
+* 🖥️  See my portfolio at [necatiarman.dev](http://necatiarman.dev)
 
 ### Skills
 
